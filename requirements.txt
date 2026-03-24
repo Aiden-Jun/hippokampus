@@ -1,0 +1,4 @@
+rich
+python-dotenv
+notion-client
+clean-ollama
